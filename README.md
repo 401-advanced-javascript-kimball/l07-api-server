@@ -8,11 +8,13 @@ Add fidelity, documentation, and tests to a fully functional REST API built with
 
 ## Links and Resources
 
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l07-api-server/pull/2)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l07-api-server)
 
 ### Documentation
 
 * [swagger](x)
+* [jsdocs](https://401-advanced-javascript-kimball.github.io/l07-api-server/)
 
 #### UML (Modules)
 
