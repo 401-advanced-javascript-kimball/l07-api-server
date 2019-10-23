@@ -12,7 +12,7 @@ Add fidelity, documentation, and tests to a fully functional REST API built with
 
 ### Documentation
 
-* [swagger]()
+* [swagger](x)
 
 #### UML (Modules)
 

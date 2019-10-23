@@ -1,6 +1,6 @@
 {
   "source": {
-    "include": ["server.js"]
+    "include": ["index.js", "./lib", "./lib/middleware"]
   },
   "opts": {
     "destination": "./docs/",
