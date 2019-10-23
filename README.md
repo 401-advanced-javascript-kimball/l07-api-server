@@ -14,6 +14,10 @@ Add fidelity, documentation, and tests to a fully functional REST API built with
 
 * [swagger]()
 
+#### UML (Modules)
+
+![UML](docs/l07-uml.svg "UML")
+
 **This is a paired Lab**
 
 ## Before you begin
